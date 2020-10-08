@@ -11,7 +11,7 @@
 <br><br>
 <a href="P1_AI2.php">P1_AI2 - Comparaciones</a> 
 <br><br>
-<a href="P1_AI3.php">P1_AI3 - Calculos</a> 
+<a href="P1_AI3.php">Me siento mala amigos</a> 
 <br><br>
 <a href="P1_AI4.php">P1_AI4 - Ciclos (arreglos)</a> 
 <br><br>
