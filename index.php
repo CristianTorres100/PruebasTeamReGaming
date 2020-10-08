@@ -11,9 +11,9 @@
 <br><br>
 <a href="P1_AI2.php">Vamos alas alitas Banda</a> 
 <br><br>
-<a href="P1_AI3.php">Me siento mala amigos</a> 
+<a href="P1_AI3.php">Me siento mal amigos, ya lo corregui jajaja</a> 
 <br><br>
-<a href="P1_AI4.php">Soy El Chinese banda Los amo</a> 
+<a href="P1_AI4.php">Soy El Chinese banda Los amo jotos</a> 
 <br><br>
 <a href="P1_AI5.php">P1_AI5 - Pirámides</a>
 <br><br>
