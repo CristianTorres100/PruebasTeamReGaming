@@ -9,7 +9,7 @@
 
 <a href="P1_AI1.php">P1_AI1 - Variable</a> 
 <br><br>
-<a href="P1_AI2.php">P1_AI2 - Comparaciones</a> 
+<a href="P1_AI2.php">Vamos alas alitas Banda</a> 
 <br><br>
 <a href="P1_AI3.php">P1_AI3 - Calculos</a> 
 <br><br>
