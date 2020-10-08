@@ -7,9 +7,9 @@
 </head>
 <body>
 
-<a href="P1_AI1.php">P1_AI1 - Variable</a> 
+<a href="P1_AI1.php">Holi Crayoli bbys</a> 
 <br><br>
-<a href="P1_AI2.php">P1_AI2 - Comparaciones</a> 
+<a href="P1_AI2.php">Vamos alas alitas Banda</a> 
 <br><br>
 <a href="P1_AI3.php">Me siento mal amigos, ya lo corregui jajaja</a> 
 <br><br>
